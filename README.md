@@ -1,7 +1,6 @@
-# 000-GD32F450ZI mbed板QR code生成二维码介绍
+keil下变量复位保持的实现
 
-#### 介绍
-GD32F450ZI mbed板QR code生成二维码介绍
+#### 介绍keil下变量复位保持的实现
 
 #### B站介绍视频网址
-https://www.bilibili.com/video/BV1cZ4y1S7a5
+https://www.bilibili.com/video/BV1SS4y1j742
